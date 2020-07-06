@@ -1,1 +1,1 @@
-# git-branches-study
+# git-branches-study-2
